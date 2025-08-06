@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sayyam Portfolio</title>
+</head>
+<body>
+
+    <!-- Title & Profile Section (Center) -->
+    <div align="center">
+        <h1>Sayyam</h1>
+        <img src="https://via.placeholder.com/150" alt="My Pic">
+        <p>BSCS Student | Web devloper in progress</p>
+
+        <p>
+            <a href="mailto:sardarsayyam999@gmail.com">Hire Me</a> |
+            <a href="my-cv.pdf" target="_blank">Download My CV</a>
+        </p>
+    </div>
+
+    <hr>
+
+    <!-- About Me -->
+    <h2>About Me</h2>
+    <p>
+        Hi, I'm Sayyam and I’m studing Computer Science at Pak-Austria (PAF-IAST). I like to build simple websites and trying to learn coding more better.
+        I'm also intrested in web designing and some backend too later.
+    </p>
+
+    <!-- Skills Section -->
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML (good grip)</li>
+        <li>CSS (still learning)</li>
+        <li>Java Script (basic level)</li>
+        <li>Team work</li>
+        <li>Basic problem solving</li>
+    </ul>
+
+    <!-- Education Section -->
+    <h2>Education</h2>
+    <table border="1">
+        <tr>
+            <th>Year</th>
+            <th>Degree</th>
+            <th>Institute</th>
+            <th>Achivements</th>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>FSc (Pre-engg)</td>
+            <td>TWPSC Abbottabad</td>
+            <td>Good grades in final exam</td>
+        </tr>
+        <tr>
+            <td>2025 (Running)</td>
+            <td>BSCS</td>
+            <td>Pak-Austria (PAF-IAST)</td>
+            <td>Performing well in subjects</td>
+        </tr>
+    </table>
+
+    <!-- Projects Section -->
+    <h2>Projects</h2>
+    <ol>
+        <li>
+            <b>My Portfolio Page</b><br>
+            I made this page using only HTML for a class task.<br>
+            <img src="https://via.placeholder.com/200" alt="Portfolio Project">
+        </li>
+        <li>
+            <b>To Do App</b><br>
+            This is a simple todo app I tried with JS basic.<br>
+            <img src="https://via.placeholder.com/200" alt="To-Do App">
+        </li>
+        <li>
+            <b>Claculator Design</b><br>
+            Made a calculator UI using only html ellements.<br>
+            <img src="https://via.placeholder.com/200" alt="Calculator Project">
+        </li>
+    </ol>
+
+    <!-- Achievements Section -->
+    <h2>Achivements</h2>
+    <ul>
+        <li>Finished html project with out help</li>
+        <li>Scored good in fsc TWPSC</li>
+        <li>Selected in PakAustria university</li>
+    </ul>
+
+    <!-- Contact Section -->
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:sardarsayyam999@gmail.com">sardarsayyam999@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/">github.com/sayyam (not added yet)</a></p>
+
+</body>
+</html>
